@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiram</h1>
-<h3 align="center">Frontend Developer from Mexico</h3>
+<h3 align="center">MERN and Rails Developer from Mexico</h3>
 
 - 🔭 I’m currently working on [rapido aprendo](http://rapidoaprendo.me)
 
