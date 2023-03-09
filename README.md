@@ -2,6 +2,7 @@
 <h3 align="center">MERN and Rails Developer from Mexico</h3>
 
 - 🔭 I’m currently working on [rapido aprendo](https://www.codewars.com/users/HiramRamirezR/badges/large)
+- https://www.codewars.com/users/HiramRamirezR/badges/large
 
 - 📫 How to reach me **hiram.j.ramirez@gmail.com**
 
