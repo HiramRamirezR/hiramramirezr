@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiram</h1>
 <h3 align="center">MERN and Rails Developer from Mexico</h3>
 
-- 🔭 I’m currently working on [rapido aprendo](https://www.codewars.com/users/HiramRamirezR/badges/large)
-- https://www.codewars.com/users/HiramRamirezR/badges/large
+![Codewars](https://github.r2v.ch/codewars?user=HiramRamirezR&stroke=COLOR)
+
 
 - 📫 How to reach me **hiram.j.ramirez@gmail.com**
 
