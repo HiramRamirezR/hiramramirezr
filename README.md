@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiram</h1>
 <h3 align="center">JavaScript / Python Developer from Mexico</h3>
 
-<div align="center">
-  ![Codewars](https://github.r2v.ch/codewars?user=HiramRamirezR&stroke=COLOR)
-</div>
+![Codewars](https://github.r2v.ch/codewars?user=HiramRamirezR&stroke=COLOR)
 
 - 📫 How to reach me **hiram.j.ramirez@gmail.com**
 
