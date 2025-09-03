@@ -36,5 +36,7 @@
 ---
 
 ### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-hiram.j.ramirez%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hiram.j.ramirez@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiram%20Ramirez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)
+[![Email](https://img.shields.io/badge/Email-hiram.j.ramirez%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hiram.j.ramirez@gmail.com)<br>
+[![Website](https://img.shields.io/badge/Portfolio-HiramRamirez-brightgreen?style=for-the-badge&logo=netlify)](https://hiramramirez.netlify.app/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiram%20Ramirez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiramramirez/)<br>
+
