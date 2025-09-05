@@ -26,17 +26,19 @@
 
 ---
 
-### 📊 Stats
-![Codewars](https://github.r2v.ch/codewars?user=HiramRamirezR&stroke=COLOR)  
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-hiram.j.ramirez%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hiram.j.ramirez@gmail.com)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiramRamirezR&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+[![Website](https://img.shields.io/badge/Portfolio-HiramRamirez-brightgreen?style=for-the-badge&logo=netlify)](https://hiramramirez.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiram%20Ramirez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiramramirez/)
 
 ---
 
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-hiram.j.ramirez%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hiram.j.ramirez@gmail.com)<br>
-[![Website](https://img.shields.io/badge/Portfolio-HiramRamirez-brightgreen?style=for-the-badge&logo=netlify)](https://hiramramirez.netlify.app/)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hiram%20Ramirez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiramramirez/)<br>
+### 🏆Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiramRamirezR&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=HiramRamirezR&theme=tokyonight)
+
 
